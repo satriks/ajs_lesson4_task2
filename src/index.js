@@ -1,1 +1,1 @@
-import "./js/checkOrder"
+import './js/checkOrder';
